@@ -51,10 +51,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Angular     1 hr 25 mins  ███████████████▒░░░░░░░░░ 61.66 %
-JavaScript  43 mins       ████████░░░░░░░░░░░░░░░░░ 31.59 %
-SCSS        7 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░ 05.18 %
-Other       1 min         ▒░░░░░░░░░░░░░░░░░░░░░░░░ 00.86 %
+Angular  26 hrs   ███████████████▒░░░░░░░░░ 61.66 %
+Rails    13 hrs   ████████░░░░░░░░░░░░░░░░░ 31.59 %
+JS       2 hr     █▒░░░░░░░░░░░░░░░░░░░░░░░ 05.18 %
+Other    1 hrs    ▒░░░░░░░░░░░░░░░░░░░░░░░░ 00.86 %
 ```
 
 <!--END_SECTION:waka-->
