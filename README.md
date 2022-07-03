@@ -22,7 +22,7 @@ Hi, I'm [Reinier Garcia](https://reiniergarcia.dev/), a passionate self-taught F
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="auto" height="342" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="auto" height="330" />
   
 - 💼 Any freelance work or job offer? Reach out [to me](mailto:reymillenium@gmail.com)
 - 💬 Ask me about anything. I am happy to help.
