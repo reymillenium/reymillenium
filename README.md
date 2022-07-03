@@ -57,8 +57,8 @@ I have 3 years of experience in the industry and I get things done.
 ```text
 Angular  26 hrs   ███████████████▒░░░░░░░░░ 61.66 %
 Rails    13 hrs   ████████░░░░░░░░░░░░░░░░░ 31.59 %
-JS       2 hr     █▒░░░░░░░░░░░░░░░░░░░░░░░ 05.18 %
-Other    1 hrs    ▒░░░░░░░░░░░░░░░░░░░░░░░░ 00.86 %
+JS       2  hrs   █▒░░░░░░░░░░░░░░░░░░░░░░░ 05.18 %
+Other    24 min   ▒░░░░░░░░░░░░░░░░░░░░░░░░ 00.86 %
 ```
 
 <!--END_SECTION:waka-->
