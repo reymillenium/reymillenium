@@ -44,7 +44,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 25 mins    ███████████████▒░░░░░░░░░   61.66 %
+Angular      1 hr 25 mins    ███████████████▒░░░░░░░░░   61.66 %
 JavaScript   43 mins         ████████░░░░░░░░░░░░░░░░░   31.59 %
 SCSS         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
 Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
@@ -59,7 +59,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
 🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
+🌸  Completed 2 tasks today           
 ✅  Completed 673 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
@@ -67,7 +67,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=reymillenium&show_icons=true&theme=gotham" alt="reymillenium" />
 
 
 
