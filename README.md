@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://reiniergarcia.dev/" target="_website">
-  <img align="left" alt="Reinier's Website" width="22px" src="https://w7.pngwing.com/pngs/1023/278/png-transparent-computer-icons-symbol-website-logo.png" />
+  <img align="left" alt="Reinier's Website" width="22px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-wikt-globe-bullet-svg-wikimedia-commons-19.png" />
 </a>
 <a href="https://stackoverflow.com/users/9616949/reinier-garcia" target="_stackoverflow">
   <img align="left" alt="Reinier's StackOverflow" width="22px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" />
