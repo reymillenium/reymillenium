@@ -63,7 +63,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/reymillenium" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-🚧 **my todoist stats:**
+🚧 **My todoist stats:**
+
 <!-- TODO-IST:START -->
 🏆  7,995 Karma Points           
 🌸  Completed 2 tasks today           
@@ -72,7 +73,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
+📈 **My GitHub public stats:**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=reymillenium&show_icons=true&theme=gotham&custom_title=Reinier%20Garcia%27s%20Public%20GitHub%20Stats" alt="reymillenium" />
 
