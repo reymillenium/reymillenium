@@ -24,7 +24,7 @@
 
 Hi, I'm [Reinier Garcia](https://reiniergarcia.dev/), a passionate bachellor degree graduate in Computer Science and a self-taught Full-stack Web Developer from Miami, FL, USA. My passion for software lies with dreaming up ideas and making them come true with elegant ruby code. I take great care in the user experience, architecture, performance, and the code quality in general of all the things I build.
 
-I'm a highly focused & reliable Junior+ (almost Midlevel) Full-Stack RoR Developer, with an excellent learning capacity and a high productivity. A methodic and curious person, that truly cares. Always learning something new and dedicated to my career 24/7. 
+I'm a highly focused & reliable Midlevel Full-Stack Web Engineer, with an excellent learning capacity and a high productivity. A methodic and curious person, that truly cares. Always learning something new and dedicated to my career 24/7. 
 
 I have 3 years of experience in the industry and I get things done.
 
