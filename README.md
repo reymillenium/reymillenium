@@ -67,20 +67,6 @@ Other    24 min   ▒░░░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-If you like what I do, maybe consider buying me a coffee 😉
-
-<a href="https://www.buymeacoffee.com/reymillenium" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **My todoist stats:**
-
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 2 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
 📈 **My GitHub public stats:**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=reymillenium&show_icons=true&theme=gotham&custom_title=Reinier%20Garcia%27s%20Public%20GitHub%20Stats" alt="reymillenium" />
