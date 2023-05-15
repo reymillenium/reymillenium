@@ -22,17 +22,12 @@
 
 <br />
 
-Hi, I'm [Reinier Garcia](https://reiniergarcia.dev/), a passionate bachellor degree graduate in Computer Science and a self-taught Full-stack Web Developer from Miami, FL, USA. My passion for software lies with dreaming up ideas and making them come true with elegant ruby code. I take great care in the user experience, architecture, performance, and the code quality in general of all the things I build.
+Hi, I'm [Reinier Garcia](https://www.reiniergarcia.dev/), a passionate BS degree graduate in Computer Science from Miami, FL, USA. My passion for software lies with dreaming up ideas and making them come true with an elegant code. I take great care in the user experience, architecture, performance, and the code quality in general of all the things I build.
 
-I'm a highly focused & reliable Midlevel Full-Stack Web Engineer, with an excellent learning capacity and a high productivity. A methodic and curious person, that truly cares. Always learning something new and dedicated to my career 24/7. 
+I'm a highly focused & reliable Midlevel Full-Stack Software Engineer, with an excellent learning capacity & high productivity. A methodic, competent & curious code builder, that truly cares. Always learning something new & focused on my career 24/7. 
 
-I have 3 years of experience in the industry and I get things done.
+I have 3 years of experience in the USA Software Industry and I get things done.
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="auto" height="320" />
-  
-- 💼 Any freelance work or job offer? Reach out [to me](mailto:reymillenium@gmail.com)
-- 💬 Ask me about anything. I am happy to help.
 
 **Languages and tools:**  
 
@@ -53,24 +48,3 @@ I have 3 years of experience in the industry and I get things done.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-
-
-
-📊 **This week I spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-Angular  26 hrs   ███████████████▒░░░░░░░░░ 61.66 %
-Rails    13 hrs   ████████░░░░░░░░░░░░░░░░░ 31.59 %
-JS       2  hrs   █▒░░░░░░░░░░░░░░░░░░░░░░░ 05.18 %
-Other    24 min   ▒░░░░░░░░░░░░░░░░░░░░░░░░ 00.86 %
-```
-
-<!--END_SECTION:waka-->
-
-📈 **My GitHub public stats:**
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=reymillenium&show_icons=true&theme=gotham&custom_title=Reinier%20Garcia%27s%20Public%20GitHub%20Stats" alt="reymillenium" />
-
-
-
