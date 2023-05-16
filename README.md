@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/reymillenium/" target="_linkedin">
   <img align="left" alt="Reinier's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://reymillenium.medium.com/about" target="_medium">
+<a href="https://reiniergarcia.medium.com" target="_medium">
   <img align="left" alt="Reinier's Medium" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" />
 </a>
 
