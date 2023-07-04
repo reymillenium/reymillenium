@@ -58,7 +58,7 @@ I have 3 years of experience in the USA Software Industry and I get things done.
 </td>
   
 <td>
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=reymillenium&show_icons=true&locale=en&layout=donut&langs_count=6&hide=pascal,php&theme=graywhite" alt="x "/></div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=reymillenium&show_icons=true&locale=en&layout=donut&langs_count=6&hide=css,scss,html,pascal,php&theme=graywhite" alt="x "/></div>
 </td>
   
 </tr>
