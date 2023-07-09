@@ -11,7 +11,7 @@
 <a href="https://twitter.com/ReinierGarciaR" target="_twitter">
   <img align="left" alt="Reinier Garcia | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/reymillenium/" target="_linkedin">
+<a href="https://www.linkedin.com/in/reiniergarcia/" target="_linkedin">
   <img align="left" alt="Reinier's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://reiniergarcia.medium.com" target="_medium">
