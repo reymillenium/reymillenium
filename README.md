@@ -9,10 +9,10 @@
   <img align="left" alt="Reinier's StackOverflow" width="22px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" />
 </a>
 <a href="https://twitter.com/ReinierGarciaR" target="_twitter">
-  <img align="left" alt="Reinier Garcia | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Reinier Garcia | Twitter" width="22px" src="https://www.svgrepo.com/show/475689/twitter-color.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/reiniergarcia/" target="_linkedin">
-  <img align="left" alt="Reinier's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Reinier's LinkedIn" width="22px" src="https://www.svgrepo.com/show/349436/linkedin.svg"/>
 </a>
 <a href="https://reiniergarcia.medium.com" target="_medium">
   <img align="left" alt="Reinier's Medium" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" />
@@ -58,7 +58,7 @@ I have 3 years of experience in the USA Software Industry and I get things done.
 </td>
   
 <td>
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=reymillenium&show_icons=true&locale=en&layout=donut&langs_count=6&hide=css,scss,html,pascal,php&theme=graywhite" alt="x "/></div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=reymillenium&show_icons=true&locale=en&layout=donut&langs_count=6&hide=css,scss,html,pascal&theme=graywhite" alt="x "/></div>
 </td>
   
 </tr>
