@@ -1,6 +1,8 @@
-![ReyMillenium Banner](https://github.com/reymillenium/images/blob/master/reymillenium_banner_800x200.png)
 
-# Hi there 👋
+<p>
+  <img src="https://github.com/reymillenium/images/blob/master/reymillenium_banner_800x200.png" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=Hi%20there%20👋&reversal=false&textBg=false&fontSize=30&fontAlign=20&fontAlignY=33" width="100%"/>
+</p>
 
 <a href="https://reiniergarcia.dev/" target="_website">
   <img align="left" alt="Reinier's Website" width="22px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-wikt-globe-bullet-svg-wikimedia-commons-19.png" />
