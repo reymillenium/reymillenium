@@ -1,7 +1,7 @@
 
 <p>
   <img src="https://github.com/reymillenium/images/blob/master/reymillenium_banner_800x200.png" width="100%"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=Hi%20there%20👋&reversal=false&textBg=false&fontSize=30&fontAlign=20&fontAlignY=33&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=9&text=Hi%20there%20👋&reversal=false&textBg=false&fontSize=30&fontAlign=20&fontAlignY=33&animation=twinkling" width="100%"/>
 </p>
 
 <a href="https://reiniergarcia.dev/" target="_website">
@@ -76,5 +76,5 @@ I have 3 years of experience in the US Software Industry and I get things done.
 
 
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&animation=twinkling&section=footer&reversal=true" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=9&animation=twinkling&section=footer&reversal=true" width="100%"/>
 </p>
