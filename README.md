@@ -67,9 +67,6 @@ I have 3 years of experience in the US Software Industry and I get things done.
   
 </tr>
 </table>
-  
----
-
 
   ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=9616949)
   
