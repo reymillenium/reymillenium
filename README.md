@@ -28,7 +28,9 @@ I'm a highly focused & reliable Midlevel Full-Stack Software Engineer, with an e
 
 I have 3 years of experience in the US Software Industry and I get things done.
 
+---
 
+<div align="center">
 <table>
 <tr valign=top>
 <td>
@@ -64,11 +66,12 @@ I have 3 years of experience in the US Software Industry and I get things done.
 </td>
   
 </tr>
-
 </table>
-
+  
 ---
 
-![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=9616949)
 
+  ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=9616949)
+  
+<div>
 
