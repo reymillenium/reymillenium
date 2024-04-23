@@ -26,7 +26,7 @@ Hi, I'm [Reinier Garcia](https://www.reiniergarcia.dev/), a passionate BS degree
 
 I'm a highly focused & reliable Midlevel Full-Stack Software Engineer, with an excellent learning capacity & high productivity. A methodic, competent & curious code builder, that truly cares. Always learning something new & focused on my career 24/7. 
 
-I have 3 years of experience in the USA Software Industry and I get things done.
+I have 3 years of experience in the US Software Industry and I get things done.
 
 
 <table>
