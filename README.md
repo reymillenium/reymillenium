@@ -20,7 +20,7 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Freymillenium&count_bg=%2379C83D&title_bg=%23555555&icon=ruby.svg&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)
 
-<br />
+--- 
 
 Hi, I'm [Reinier Garcia](https://www.reiniergarcia.dev/), a passionate BS degree graduate in Computer Science from Miami, FL, USA. My passion for software lies with dreaming up ideas and making them come true with an elegant code. I take great care in the user experience, architecture, performance, and the code quality in general of all the things I build.
 
@@ -65,6 +65,8 @@ I have 3 years of experience in the USA Software Industry and I get things done.
 
 </table>
 
+---
 
+![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=9616949)
 
 
