@@ -1,6 +1,6 @@
 ![ReyMillenium Banner](https://github.com/reymillenium/images/blob/master/reymillenium_banner_800x200.png)
 
-### Hi there 👋
+# Hi there 👋
 
 <a href="https://reiniergarcia.dev/" target="_website">
   <img align="left" alt="Reinier's Website" width="22px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-wikt-globe-bullet-svg-wikimedia-commons-19.png" />
