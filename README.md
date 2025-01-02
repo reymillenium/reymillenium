@@ -24,11 +24,11 @@
 
 --- 
 
-Hi, I'm [Reinier Garcia](https://www.reiniergarcia.dev/), a passionate BS degree graduate in Computer Science from Miami, FL, USA. My passion for software lies with dreaming up ideas and making them come true with an elegant code. I take great care in the user experience, architecture, performance, and the code quality in general of all the things I build.
+Hi, I'm Reinier Garcia, a passionate software engineer with a degree equivalent to a Bachelor's in the U.S., earned in Cuba. Currently, I'm furthering my expertise by pursuing an Associate of Science in Computer Programming and Analysis, with a focus on Mobile Applications Development, at Miami Dade College. I specialize in turning ideas into reality through elegant and efficient code, with a strong focus on user experience, architecture, performance, and overall code quality.
 
-I'm a highly focused & reliable Midlevel Full-Stack Software Engineer, with an excellent learning capacity & high productivity. A methodic, competent & curious code builder, that truly cares. Always learning something new & focused on my career 24/7. 
+As a Midlevel Full-Stack Software Engineer, I'm highly focused, reliable, and productive, with a constant drive to learn and grow. I pride myself on being methodical, competent, and curious—a developer who genuinely cares about building impactful solutions.
 
-I have 3 years of experience in the US Software Industry and I get things done.
+With 3 years of experience in the U.S. software industry, I bring a results-oriented approach to every project, ensuring that I deliver high-quality work efficiently and effectively.
 
 ---
 
