@@ -34,44 +34,19 @@ I have 3 years of experience in the US Software Industry and I get things done.
 
 <div align="center">
 <table>
-<tr valign=top>
-<td>
-
-### Languages & Tools
-
-&ensp;  
- 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-
-</td>
-  
-<td>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reymillenium&show_icons=true&locale=en&layout=donut&langs_count=6&hide=css,scss,html,pascal&theme=graywhite&hide_border=true" alt="x "/>
-</div>
-</td>
-  
-</tr>
+  <tr valign=top>
+    <td>
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=reymillenium&hide_border=true&title_color=24292f&show_icons=true&rank_icon=github" />
+    </td>
+    <td>
+      <div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reymillenium&show_icons=true&locale=en&layout=compact&langs_count=8&hide=css,scss,html,pascal,less&theme=graywhite&hide_border=true" alt="x "/>
+      </div>
+    </td>
+  </tr>
 </table>
 
   ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=9616949)
-  
 <div>
 
 
