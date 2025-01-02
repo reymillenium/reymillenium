@@ -24,7 +24,7 @@
 
 --- 
 
-Hi, I'm Reinier Garcia, a passionate software engineer with a degree equivalent to a Bachelor's in the U.S., earned in Cuba. Currently, I'm furthering my expertise by pursuing an Associate of Science in Computer Programming and Analysis, with a focus on Mobile Applications Development, at Miami Dade College. I specialize in turning ideas into reality through elegant and efficient code, with a strong focus on user experience, architecture, performance, and overall code quality.
+Hi, I'm Reinier Garcia, a passionate Software Engineer with a degree equivalent to a Bachelor's in the U.S., earned in Cuba. Currently, I'm furthering my expertise by pursuing an Associate of Science in Computer Programming and Analysis, with a focus on Mobile Applications Development, at Miami Dade College. I specialize in turning ideas into reality through elegant and efficient code, with a strong focus on user experience, architecture, performance, and overall code quality.
 
 As a Midlevel Full-Stack Software Engineer, I'm highly focused, reliable, and productive, with a constant drive to learn and grow. I pride myself on being methodical, competent, and curious—a developer who genuinely cares about building impactful solutions.
 
