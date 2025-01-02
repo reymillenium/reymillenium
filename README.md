@@ -89,6 +89,10 @@ I have 3 years of experience in the US Software Industry and I get things done.
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-red?style=for-the-badge&logo=mongoose)
 
+###  Database Clients
+![DBeaver](https://img.shields.io/badge/DBeaver-876f60?style=for-the-badge&logo=dbeaver&logoColor=white)
+![DataGrip](https://img.shields.io/badge/DataGrip-cf287b?style=for-the-badge&logo=datagrip)
+![MySQLWoekbench](https://img.shields.io/badge/MySQL_Workbench-2d608b?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### JS Libraries:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -96,7 +100,7 @@ I have 3 years of experience in the US Software Industry and I get things done.
 ![ReduxSaga](https://img.shields.io/badge/redux_saga-%23593d88.svg?style=for-the-badge&logo=reduxsaga&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
-![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
+![Pug](https://img.shields.io/badge/Pug-d9cdb9?style=for-the-badge&logo=pug&logoColor=A86454)
 ![Handlebars](https://img.shields.io/badge/Handlebars-%23000000?style=for-the-badge&logo=Handlebars.js&logoColor=white)
 
 
@@ -127,8 +131,13 @@ I have 3 years of experience in the US Software Industry and I get things done.
 ### Projects Management & Documentation
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
+### Photography Edition
+![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
+### IDEs:
 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 <p>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=9&animation=twinkling&section=footer&reversal=true" width="100%"/>
