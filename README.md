@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=9&text=Hi%20there%20👋&reversal=false&textBg=false&fontSize=30&fontAlign=20&fontAlignY=33&animation=twinkling" width="100%"/>
 </p>
 
-<a href="https://reiniergarcia.dev/" target="_website">
+<a href="https://www.reiniergarcia.dev/" target="_website">
   <img align="left" alt="Reinier's Website" width="22px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-wikt-globe-bullet-svg-wikimedia-commons-19.png" />
 </a>
 <a href="https://stackoverflow.com/users/9616949/reinier-garcia" target="_stackoverflow">
