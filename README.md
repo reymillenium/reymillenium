@@ -19,8 +19,8 @@
 <a href="https://reiniergarcia.medium.com" target="_medium">
   <img align="left" alt="Reinier's Medium" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" />
 </a>
-
 <a href="https://visitor-badge.laobi.icu/badge?page_id=reymillenium.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=reymillenium.visitor-badge&title=Visits" align="right" alt="Visits"></a>
+
 
 --- 
 
