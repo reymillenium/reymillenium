@@ -79,6 +79,8 @@ With 3 years of experience in the U.S. software industry, I bring a results-orie
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![UIkit](https://img.shields.io/badge/UIkit-54afd6.svg?style=for-the-badge&logo=UIKit&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-011d92.svg?style=for-the-badge&logo=Swift&logoColor=white)
 
 ### Databases:
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
