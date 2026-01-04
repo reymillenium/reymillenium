@@ -34,6 +34,10 @@ With 3 years of experience in the U.S. software industry, I bring a results-orie
 
 ---
 
+[![Reinier's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reymillenium&theme=dracula)](https://www.reiniergarcia.dev/)
+
+---
+
 <div align="center">
 <table>
   <tr valign=top>
