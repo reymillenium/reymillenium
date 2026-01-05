@@ -42,11 +42,11 @@ With 3 years of experience in the U.S. software industry, I bring a results-orie
 <table>
   <tr valign=top>
     <td>
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=reymillenium&hide_border=true&title_color=24292f&show_icons=true&rank_icon=github" />
+      <img height=200 align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/reymillenium?Title=24292f&preferLogin=false&cardType=github&border=FFFFFF" />
     </td>
     <td>
       <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reymillenium&show_icons=true&locale=en&layout=compact&langs_count=8&hide=css,scss,html,pascal,less&theme=graywhite&hide_border=true" alt="x "/>
+        <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=reymillenium&show_icons=true&locale=en&layout=compact&langs_count=8&hide=css,scss,html,pascal,less&theme=graywhite&hide_border=true" alt="x "/>
       </div>
     </td>
   </tr>
